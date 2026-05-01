@@ -226,6 +226,7 @@ streamlit run app.py
 | Platform | Google Colab |
 | GPU | NVIDIA T4 |
 | CUDA | 12.x |
+| Epochs | 15 (all experiments) |
 | Training time | Exp 1~3: ~15 min / Exp 4: ~30 min / Exp 5: ~20 min |
 
 <br>
