@@ -133,7 +133,7 @@ Epoch 12: Val 97.36% → Stable convergence with no oscillation
 
 ## ⚠️ Limitations
 
-- **Small dataset**: With only ~45 images per class, all models are prone to overfitting. Train accuracy reached 99% while Val accuracy plateaued around 85~97%, indicating a clear generalization gap.
+- **Small dataset**: With only approximately 45 images per class, all models are prone to overfitting. Train accuracy reached 99% while Val accuracy plateaued around 85–97%
 
 - **Val Loss oscillation in ResNet FT**: Without a learning rate scheduler, the model overshoots the optimum after Epoch 6, causing unstable validation performance.
 
