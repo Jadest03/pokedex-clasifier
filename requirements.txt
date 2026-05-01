@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision>=0.15.0
+diffusers>=0.20.0
+accelerate
+streamlit
+scikit-learn
+matplotlib
+numpy
+Pillow
+requests
+pandas
